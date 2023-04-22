@@ -1,0 +1,59 @@
+.btn-info.
+.btn-info: visited
+.btn-info: focus {
+	background-color: #7a0dfd;
+	background-color: #1c2e35;
+}
+.btn-info: hover
+.btn-info:active {
+	background-color: #el3b9;
+	border-color: #6917ca;
+}
+.btn-info:active-focus , 
+.btn-info:focus {
+	box-shadow: 0 0 0 . 25rem rgba(199, 49, 253, 0.5);
+}
+
+.text-info {
+	color: #6906df !important;
+}
+
+.bg-info {
+	background-color: #f9f8ff !important;
+}
+
+.border-primary {
+	border-color: #198754 !important;
+}
+
+.alert-info {
+	color: #5700cl;
+	background-color: #decfff;
+	border-color: #d5abff;
+}
+.bg-primary {
+    background-color: #f9fafb!important;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #16c372;
+    border-color: #eaf3f0;
+}
+    
+.text-primary         {
+    color: #20d682!important;
+}
+
+a {
+    color: #0fab63;
+    text-decoration: underline;
+}
+.text-muted2 {
+    color: #16c674!important;
+}
+.navbar-light .navbar-brand {
+    color: #2cc47e;
+}
+.w-75 {
+    width: 50%!important;
+}
